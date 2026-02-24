@@ -1,2 +1,2 @@
-inventory = ["apple", "banana", "carrots", "dates"]
+inventory = ['apple', 'banana', 'carrots', 'dates']
 print(inventory)
